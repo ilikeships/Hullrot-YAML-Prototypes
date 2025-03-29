@@ -19,6 +19,5 @@
   id: Emag
   suffix: Limited
   components:
-  - type: LimitedCharges
   - type: StaticPrice
     price: 2500
