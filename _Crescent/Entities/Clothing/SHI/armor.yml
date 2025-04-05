@@ -52,7 +52,7 @@
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
-    armorRepair: PlasteelPlate
+    armorRepair: SteelPlate
     initialModifiers:
       flatReductions:
         Blunt: 15
